@@ -6,6 +6,7 @@
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
     --alto-contraste-link: #ffd700;
+    --alto-contraste-link
 }
 
 body {
@@ -14,7 +15,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #ebe9e9;
 }
 
 
